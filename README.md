@@ -1,35 +1,42 @@
-🏆 Arabic Intelligent Voice Assistant
-A complete AI-powered Arabic voice interaction project
+المساعد الصوتي الذكي باللغة العربية
+مشروع متكامل للتفاعل الصوتي باللغة العربية باستخدام الذكاء الاصطناعي
 
-✨ Key Features
-Smart Activation System: Voice activation with custom wake word
+✨ الميزات الرئيسية
 
-Natural Arabic Understanding: Advanced question and query processing
+نظام تفعيل ذكي: تفعيل صوتي بكلمة مرور مخصصة
 
-Intelligent Voice Responses: Clear and natural speech responses
+فهم طبيعي للغة العربية: معالجة متقدمة للأسئلة والاستفسارات
 
-User-Friendly Control Panel: Comprehensive graphical interface
+ردود صوتية ذكية: إجابات صوتية واضحة وطبيعية
 
-Detailed Analytics: User interaction tracking
+واجهة تحكم سهلة: لوحة تحكم رسومية متكاملة
 
-Full Customizability: Adjustable settings to meet your needs
+إحصائيات مفصلة: تتبع تفاعلات المستخدمين
 
-💻 Technologies Used
-Programming Language: Python 3.8+
+قابلية تخصيص كاملة: ضبط الإعدادات حسب الحاجة
 
-Audio Processing: gTTS + pygame
+💻 التقنيات المستخدمة
 
-Artificial Intelligence: Advanced NLP algorithms
+لغة البرمجة: Python 3.8+
 
-GUI Framework: Tkinter
+معالجة الصوت: gTTS + pygame
 
-🔍 Project Applications
-✔ Smart corporate assistance systems
-✔ Voice-controlled smart home systems
-✔ AI conversational applications
-✔ Interactive information systems
+الذكاء الاصطناعي: خوارزميات NLP متقدمة
 
-⚙ System Requirements
-Python 3.8 or later
+الواجهة الرسومية: Tkinter
 
-Libraries listed in requirements.txt
+🔍 استخدامات المشروع
+
+✔ أنظمة المساعدة الذكية للشركات
+
+✔ أنظمة المنازل الذكية بالتحكم الصوتي
+
+✔ تطبيقات المحادثة بالذكاء الاصطناعي
+
+✔ أنظمة المعلومات التفاعلية
+
+
+⚙ متطلبات التشغيل
+Python 3.8 أو أحدث
+
+المكتبات الموجودة في requirements.txt
